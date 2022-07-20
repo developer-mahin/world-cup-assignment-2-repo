@@ -227,8 +227,7 @@ hr{
             height:176px;
             margin-top:-90px;
             display: flex;
-           
-            margin-left:200px;
+            margin-left:60px;
             background-color: white;
             margin-bottom: 40px;
             grid-template-rows: repeat(1, 1fr);
@@ -246,7 +245,7 @@ hr{
         }
         .players{
             width:100%;
-            margin-left: 190px;
+            margin-left: 60px;
             grid-template-columns: repeat(1, 1fr);
         }
         .footer{
